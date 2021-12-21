@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "https://mukundakamatham.github.io/csb-psrly/static/css/main.ae29143e.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-psrly/static/js/main.2ec11eac.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-psrly/static/js/main.2ec11eac.chunk.js.map",
+    "runtime-main.js": "https://mukundakamatham.github.io/csb-psrly/static/js/runtime-main.910ba361.js",
+    "runtime-main.js.map": "https://mukundakamatham.github.io/csb-psrly/static/js/runtime-main.910ba361.js.map",
+    "static/css/2.0a9ec390.chunk.css": "https://mukundakamatham.github.io/csb-psrly/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e65e7ab6.chunk.js": "https://mukundakamatham.github.io/csb-psrly/static/js/2.e65e7ab6.chunk.js",
+    "static/js/2.e65e7ab6.chunk.js.map": "https://mukundakamatham.github.io/csb-psrly/static/js/2.e65e7ab6.chunk.js.map",
+    "static/js/3.b226f6d5.chunk.js": "https://mukundakamatham.github.io/csb-psrly/static/js/3.b226f6d5.chunk.js",
+    "static/js/3.b226f6d5.chunk.js.map": "https://mukundakamatham.github.io/csb-psrly/static/js/3.b226f6d5.chunk.js.map",
+    "index.html": "https://mukundakamatham.github.io/csb-psrly/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "https://mukundakamatham.github.io/csb-psrly/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ae29143e.chunk.css.map": "https://mukundakamatham.github.io/csb-psrly/static/css/main.ae29143e.chunk.css.map",
+    "static/js/2.e65e7ab6.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-psrly/static/js/2.e65e7ab6.chunk.js.LICENSE.txt",
+    "static/media/699sale.590c9933.webp": "https://mukundakamatham.github.io/csb-psrly/static/media/699sale.590c9933.webp",
+    "static/media/799sale.6ac6868a.webp": "https://mukundakamatham.github.io/csb-psrly/static/media/799sale.6ac6868a.webp",
+    "static/media/999sale.3b82d493.webp": "https://mukundakamatham.github.io/csb-psrly/static/media/999sale.3b82d493.webp",
+    "static/media/Search.4fdbfd60.svg": "https://mukundakamatham.github.io/csb-psrly/static/media/Search.4fdbfd60.svg",
+    "static/media/bag.6b3ca3ae.svg": "https://mukundakamatham.github.io/csb-psrly/static/media/bag.6b3ca3ae.svg",
+    "static/media/clearancesale.62052864.webp": "https://mukundakamatham.github.io/csb-psrly/static/media/clearancesale.62052864.webp",
+    "static/media/clothing.a29c35a4.jpg": "https://mukundakamatham.github.io/csb-psrly/static/media/clothing.a29c35a4.jpg",
+    "static/media/dresses.d99df92c.png": "https://mukundakamatham.github.io/csb-psrly/static/media/dresses.d99df92c.png",
+    "static/media/heart.7909f595.svg": "https://mukundakamatham.github.io/csb-psrly/static/media/heart.7909f595.svg",
+    "static/media/lookbooks.5ce1e23f.webp": "https://mukundakamatham.github.io/csb-psrly/static/media/lookbooks.5ce1e23f.webp",
+    "static/media/newindrpdnnv1.0dad47b9.png": "https://mukundakamatham.github.io/csb-psrly/static/media/newindrpdnnv1.0dad47b9.png",
+    "static/media/party.5c5773ce.png": "https://mukundakamatham.github.io/csb-psrly/static/media/party.5c5773ce.png",
+    "static/media/tops.09267961.png": "https://mukundakamatham.github.io/csb-psrly/static/media/tops.09267961.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.910ba361.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e65e7ab6.chunk.js",
+    "static/css/main.ae29143e.chunk.css",
+    "static/js/main.2ec11eac.chunk.js"
+  ]
+}
